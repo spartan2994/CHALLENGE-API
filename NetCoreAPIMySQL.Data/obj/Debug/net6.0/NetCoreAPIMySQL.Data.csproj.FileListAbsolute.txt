@@ -1,0 +1,15 @@
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/bin/Debug/net6.0/NetCoreAPIMySQL.Data.deps.json
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/bin/Debug/net6.0/NetCoreAPIMySQL.Data.dll
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/bin/Debug/net6.0/NetCoreAPIMySQL.Data.pdb
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/bin/Debug/net6.0/NetCoreAPIMySQL.Model.dll
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/bin/Debug/net6.0/NetCoreAPIMySQL.Model.pdb
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/obj/Debug/net6.0/NetCoreAPIMySQL.Data.csproj.AssemblyReference.cache
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/obj/Debug/net6.0/NetCoreAPIMySQL.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/obj/Debug/net6.0/NetCoreAPIMySQL.Data.AssemblyInfoInputs.cache
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/obj/Debug/net6.0/NetCoreAPIMySQL.Data.AssemblyInfo.cs
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/obj/Debug/net6.0/NetCoreAPIMySQL.Data.csproj.CoreCompileInputs.cache
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/obj/Debug/net6.0/NetCoreAPIMySQL.Data.csproj.CopyComplete
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/obj/Debug/net6.0/NetCoreAPIMySQL.Data.dll
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/obj/Debug/net6.0/refint/NetCoreAPIMySQL.Data.dll
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/obj/Debug/net6.0/NetCoreAPIMySQL.Data.pdb
+/Users/carlosjesus.bonilla/Projects/ChallengeAPI/NetCoreAPIMySQL.Data/obj/Debug/net6.0/ref/NetCoreAPIMySQL.Data.dll
